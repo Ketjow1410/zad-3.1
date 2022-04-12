@@ -1,3 +1,9 @@
 Krzysztof 20
 Janusz 40
 Wojciech 22
+Krzysztof 20
+Janusz 40
+Aneta 19
+Krzysztof 20 20.02.2022
+Janusz 40 20.02.2022
+wojtek 22 19.01.2000
